@@ -5,10 +5,10 @@ My first repository
 **CPE 401**
 ---------------------
 *Movie*
-1. Howl's of the Moving Castle
+Howl's of the Moving Castle
 ---------------------
 **Movie Catalog**
 |*Movie Name*| Howl's of the Moving Castle|
 |------------|----------------------------|
-|**Genre**|
-Action, Romance, Mystery, Fantasy|
+|**Genre**| Action, Romance, Mystery, Fantasy|
+|**Description**| A girl who creates a hat was accidently involve on the witches curse and turn her into a old lady.|
